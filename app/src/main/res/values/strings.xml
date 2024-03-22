@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">tugasday5</string>
+    <string name="nama_pelangan">Nama Pelanggan</string>
+    <string name="kode_barang">Kode Barang</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="harga">Harga</string>
+    <string name="total_harga">Total Harga</string>
+    <string name="diskon_harga">Diskon Harga</string>
+    <string name="diskon_member">Diskon Member</string>
+    <string name="jumlah_bayar">Jumlah Bayar</string>
+    <string name="danang_hasto_munandar_quiz_1">Danang Hasto Munandar Quiz 1</string>
+    <string name="nama">Nama</string>
+    <string name="jumlah_barang">Jumlah Barang</string>
+    <string name="kode_barangg">Kode Barang</string>
+    <string name="masuk">Masuk</string>
+    <string name="silver">Abu Abu</string>
+    <string name="biasa">Biasa</string>
+    <string name="gold">Emas</string>
+</resources>

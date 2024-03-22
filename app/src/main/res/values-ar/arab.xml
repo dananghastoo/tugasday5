@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">tugasday5</string>
+<string name="nama_pelangan">اسم العميل</string>
+<string name="kode_barang">رمز المنتج</string>
+<string name="nama_barang">اسم المنتج</string>
+<string name="harga">السعر</string>
+<string name="total_harga">السعر الإجمالي</string>
+<string name="diskon_harga">سعر الخصم</string>
+<string name="diskon_member">خصم العضو</string>
+<string name="jumlah_bayar">المبلغ الإجمالي</string>
+<string name="danang_hasto_munandar_quiz_1">دانانج هاستو موناندار كويز 1</string>
+<string name="nama">الاسم</string>
+<string name="jumlah_barang">الكمية</string>
+<string name="kode_barangg">رمز المنتج</string>
+<string name="masuk">ادخل</string>
+<string name="silver">فضي</string>
+<string name="biasa">عادي</string>
+<string name="gold">ذهبي</string>
+</resources>
